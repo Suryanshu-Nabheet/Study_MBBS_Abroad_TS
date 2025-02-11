@@ -5,14 +5,14 @@ A modern, fully responsive landing page for students seeking MBBS programs abroa
 ---
 
 ## 🚀 Live Demo  
-📁 **GitHub Repository**: [Repository URL]  
+📁 **GitHub Repository**: [https://github.com/Suryanshu-Nabheet/Study_MBBS_Abroad_TS]  
 
 ---
 ## 🚀 Technologies & Skills  
 
 ### **🌐 Frontend Development**  
 <p align="left">
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />{Mostly}
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
