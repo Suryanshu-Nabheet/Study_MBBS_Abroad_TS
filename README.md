@@ -5,7 +5,7 @@ A modern, fully responsive landing page for students seeking MBBS programs abroa
 ---
 
 ## 🚀 Live Demo  
-📁 **GitHub Repository**: [https://github.com/Suryanshu-Nabheet/Study_MBBS_Abroad_TS]  
+📁 **GitHub Repository**: [Study_MBBS_Abroad_TS](https://github.com/Suryanshu-Nabheet/Study_MBBS_Abroad_TS)
 
 ---
 ## 🚀 Technologies & Skills 
