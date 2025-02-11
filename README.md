@@ -8,7 +8,8 @@ A modern, fully responsive landing page for students seeking MBBS programs abroa
 📁 **GitHub Repository**: [https://github.com/Suryanshu-Nabheet/Study_MBBS_Abroad_TS]  
 
 ---
-## 🚀 Technologies & Skills  
+## 🚀 Technologies & Skills 
+** Moslty build Using TypeScript**
 
 ### **🌐 Frontend Development**  
 <p align="left">
