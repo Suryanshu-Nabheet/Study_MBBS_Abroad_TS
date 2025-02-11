@@ -5,9 +5,6 @@ A modern, fully responsive landing page for students seeking MBBS programs abroa
 ---
 
 ## 🚀 Live Demo  
-
-🔗 **Website Link**: [Add your deployed site URL here]  
-
 📁 **GitHub Repository**: [Repository URL]  
 
 ---
